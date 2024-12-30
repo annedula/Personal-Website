@@ -29,18 +29,18 @@
 
 body {
   position: relative;
-  color: pink;
+  color: #66fcf1;
   font-family: "Quicksand", sans-serif;
 }
 
 .navbar {
-  background-color: white;
+  background-color: #1f2833;
 }
 #about,
 #portfolio,
 #contact,
 #services {
-  background-color: pink;
+  background-color: #1f2833;
 }
 
 .navbar-brand,
