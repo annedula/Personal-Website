@@ -29,18 +29,18 @@
 
 body {
   position: relative;
-  color: white;
+  color: pink;
   font-family: "Quicksand", sans-serif;
 }
 
 .navbar {
-  background-color: #1f2833;
+  background-color: white;
 }
 #about,
 #portfolio,
 #contact,
 #services {
-  background-color: #1f2833;
+  background-color: pink;
 }
 
 .navbar-brand,
@@ -103,7 +103,7 @@ p {
   text-align: center;
 }
 .footer {
-  background-color: #1f2833;
+  background-color: white;
   color: #66fcf1;
   padding: 20px 0;
   position: relative;
