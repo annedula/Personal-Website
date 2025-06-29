@@ -17,10 +17,15 @@
   height: 600px;
   padding-top: 190px;
 }
+#certifications {
+  height: 500px;
+  padding-top: 90px;
+}
 #about,
 #portfolio,
 #contact,
-#services {
+#services,
+#certifications {
   word-wrap: break-word;
 }
 * {
@@ -39,7 +44,8 @@ body {
 #about,
 #portfolio,
 #contact,
-#services {
+#services,
+#certifications {
   background-color: #1f2833;
 }
 
@@ -99,7 +105,8 @@ p {
 }
 
 .cnt,
-.inquire {
+.inquire,
+.cert {
   text-align: center;
 }
 .footer {
